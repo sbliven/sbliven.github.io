@@ -1,0 +1,4 @@
+{% assign pmid = include.pmid -%}
+{% assign badge_style = include.style | default: "flat" -%}
+{% assign badge_color = include.color | default: "blue" -%}
+[![pubmed](https://img.shields.io/badge/pubmed-{{ pmid }}-{{ badge_color }}.svg?style={{ badge_style }})](https://www.ncbi.nlm.nih.gov/pubmed/{{ pmid }})

@@ -1,0 +1,4 @@
+{% assign doi = include.doi -%}
+{% assign badge_style = include.style | default: "flat" -%}
+{% assign badge_color = include.color | default: "blue" -%}
+[![doi](https://img.shields.io/badge/doi-{{ doi | uri_escape }}-{{ badge_color }}.svg?style={{ badge_style }})](https://doi.org/{{ doi }})
