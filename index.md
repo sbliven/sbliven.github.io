@@ -42,13 +42,12 @@ These algorithms are discussed in my PhD thesis from UC San Diego under Prof. Ph
 **[CE-Symm](https://github.com/rcsb/symmetry)** is a tool for finding structural repeats in protein structures, including pseudosymmetry, translational repeats, and hierarchical combinations of symmetric relationships. These can lead to important insights on the function and evolution of proteins.
 
 > **Analyzing the symmetrical arrangement of structural repeats in proteins with CE-Symm**<br/>
-> *Spencer E Bliven, Aleix Lafita, Peter W Rose, Guido Capitani, Andreas Prlić, & Philip E Bourne* <br/>
+> _Spencer E Bliven, Aleix Lafita, Peter W Rose, Guido Capitani, Andreas Prlić, & Philip E Bourne_ <br/>
 > [PLOS Computational Biology (2019) 15 (4):e1006842.](https://journals.plos.org/ploscompbiol/article/citation?id=10.1371/journal.pcbi.1006842)<br/>
 > {% include doi.html doi="10.1371/journal.pcbi.1006842" %}
 > {% include pubmed.html pmid="31009453" %}
-
 > **Systematic detection of internal symmetry in proteins using CE-Symm**<br/>
-> *Douglas Myers-Turnbull, Spencer E Bliven, Peter W Rose, Zaid K Aziz, Philippe Youkharibache, Philip E Bourne, & Andreas Prlić* <br/>
+> _Douglas Myers-Turnbull, Spencer E Bliven, Peter W Rose, Zaid K Aziz, Philippe Youkharibache, Philip E Bourne, & Andreas Prlić_ <br/>
 > [J Mol Biol (2013) 426 (11): 2255–2268.](https://doi.org/10.1016/j.jmb.2014.03.010) <br/>
 > {% include doi.html doi="10.1016/j.jmb.2014.03.010" %}
 > {% include pubmed.html pmid="24681267" %}
@@ -56,7 +55,7 @@ These algorithms are discussed in my PhD thesis from UC San Diego under Prof. Ph
 The **QuatSymm** tool identifies symmetries in protein complexes. It was used to assess protein assembly predictions at the [CASP12 challenge](https://predictioncenter.org/).
 
 > **Detection of circular permutations within protein structures using CE-CP**<br/>
-> *Spencer E Bliven, Philip E Bourne, Andreas Prlić*<br/>
+> _Spencer E Bliven, Philip E Bourne, Andreas Prlić_<br/>
 > [Bioinformatics (2014) 31(8):1316–1318](https://doi.org/10.1093/bioinformatics/btu823)<br/>
 > {% include doi.html doi="10.1093/bioinformatics/btu823" %}
 > {% include pubmed.html pmid="25505094" %}
@@ -64,13 +63,13 @@ The **QuatSymm** tool identifies symmetries in protein complexes. It was used to
 All algorithms are included in the [BioJava](https://www.biojava.org/) library.
 
 > **BioJava 5: A community driven open-source bioinformatics library**<br/>
-> *Aleix Lafita, Spencer Bliven, Andreas Prlić, Dmytro Guzenko, Peter W. Rose, Anthony Bradley, Paolo Pavan, Douglas Myers-Turnbull, Yana Valasatava, Michael Heuer, Matt Larson, Stephen K. Burley, Jose M. Duarte* <br/>
+> _Aleix Lafita, Spencer Bliven, Andreas Prlić, Dmytro Guzenko, Peter W. Rose, Anthony Bradley, Paolo Pavan, Douglas Myers-Turnbull, Yana Valasatava, Michael Heuer, Matt Larson, Stephen K. Burley, Jose M. Duarte_ <br/>
 > [PLOS Computational Biology 15(2): e1006791](http://dx.plos.org/10.1371/journal.pcbi.1006791) <br/>
 > {% include doi.html doi="10.1371/journal.pcbi.1006791" %}
 
 ## Structure of VEGFR-1 with VEGF-A
 
-![](https://ars.els-cdn.com/content/image/1-s2.0-S0969212616304026-fx1.jpg)
+![VEGFR-1 extracellular domain with VEGF-A](https://ars.els-cdn.com/content/image/1-s2.0-S0969212616304026-fx1.jpg)
 
 PDB ID [5T89](https://www.rcsb.org/structure/5T89)
 
